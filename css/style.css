@@ -1,0 +1,37 @@
+body{ background: linear-gradient(to right, #30e8bf, #ff8235);
+  
+}
+h1{
+  font-family:"times new roman";
+  font-size:50px;
+}
+h3{
+  font-family:"times new roman";
+  font-style:italic;
+}
+.container-fluid{
+  padding-top:50px;
+}
+hr{
+  width:600px;
+  border-bottom:1px solid black;
+}
+.quote-box{
+   background: rgba(0, 0, 0, 0.3);
+  border: 1px solid lightgreen;
+  border-radius: 20px;
+  color: #CCCCCC;
+  padding: 30px;}
+
+.button{
+  
+  margin-top:10px;
+}
+#quote{
+  font-size:20px;
+}
+#author{
+  font-size:15px;
+  font-style:italic;
+}
+
